@@ -1,7 +1,6 @@
 # GreedySnake
 
-![](https://api.travis-ci.com/LIU-HONGYANG/GreedySnake.svg?branch=main])
-
+![](https://www.travis-ci.com/github/LIU-HONGYANG/Covid-19)
 
 The GreedySnake game developed using Java GUI language
 
