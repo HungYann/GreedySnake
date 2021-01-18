@@ -1,6 +1,7 @@
 # GreedySnake
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.travis-ci.com/LIU-HONGYANG/GreedySnake.svg?branch=main)
+![](https://api.travis-ci.com/LIU-HONGYANG/GreedySnake.svg?branch=main])
+
 
 The GreedySnake game developed using Java GUI language
 
