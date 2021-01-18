@@ -1,2 +1,5 @@
-language: Java
+language: java
+jdk:
+  - oraclejdk9
 
+script: ant build
